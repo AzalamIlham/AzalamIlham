@@ -1,16 +1,18 @@
-## Hi there 👋
+👋 Hi, I’m @AzalamIlham
+👀 I’m interested in:
+Web development, particularly with React and Node.js.
 
-<!--
-**AzalamIlham/AzalamIlham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 Currently learning:
+Advanced React concepts and backend development with Express and MySQL.
 
-Here are some ideas to get you started:
+💞️ Looking to collaborate on:
+Open-source projects or any interesting web development projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 How to reach me:
+Azalam Ilham (Add a link to your preferred contact method, like LinkedIn, email, or personal website)
+
+😄 Pronouns:
+(Add your pronouns, e.g., she/her, he/him, they/them)
+
+⚡ Fun fact:
+I love exploring new technologies and trying out different cuisines!
