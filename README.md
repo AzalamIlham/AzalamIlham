@@ -1,18 +1,18 @@
 👋 Hi, I’m @AzalamIlham
 👀 I’m interested in:
-Web development, particularly with React and Node.js.
+Web development with React, Node.js, and Spring Boot. I also enjoy exploring network programming and UI/UX design.
 
 🌱 Currently learning:
-Advanced React concepts and backend development with Express and MySQL.
+Advanced React concepts, backend development with Express, MySQL, and Spring Boot, as well as improving my skills in UI/UX design.
 
 💞️ Looking to collaborate on:
-Open-source projects or any interesting web development projects.
+Open-source projects, innovative web development ideas, and network programming projects.
 
 📫 How to reach me:
-Azalam Ilham (Add a link to your preferred contact method, like LinkedIn, email, or personal website)
+Azalam Ilham 
 
 😄 Pronouns:
-(Add your pronouns, e.g., she/her, he/him, they/them)
+she/her
 
 ⚡ Fun fact:
-I love exploring new technologies and trying out different cuisines!
+I’m passionate about discovering new technologies and love trying out different cuisines!
